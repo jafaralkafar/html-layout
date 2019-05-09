@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin:0;
+}
+
+header {
+    width: 95vw;
+    height: 15vh;
+    background: rgb(172, 171, 171);
+    margin: 0 20px 0 10px;
+}
+.logo {
+    height: 12vh;
+    width: 10vw;
+    background: rgb(19, 139, 187);
+    float: left;
+    margin: 10px 0 0 10px;
+}
+.text-box {
+    width: 80vw;
+    height: 20vh;
+    margin: 20px 50px 20px 90px;
+}
+.rectangle {
+    width:95vw;
+    height: 15vh;
+    margin: 0 20px 0 10px;
+}
+#blue {
+    background: rgb(19, 139, 187);
+}
+#teal {
+    background: rgb(22, 189, 189);
+}
+#pea {
+    background: rgb(137, 177, 59);
+}
+#yellow {
+    background: yellow;
+}
